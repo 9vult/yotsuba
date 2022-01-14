@@ -1,0 +1,20 @@
+{
+    "name": "yotsuba",
+    "version": "1.0.0",
+    "description": "Discord bot for fansubbers",
+    "main": "index.js",
+    "scripts": {
+        "start": "ts-node src/index.ts"
+    },
+    "author": "9volt",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^13.6.0",
+        "dotenv": "^11.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^17.0.8",
+        "ts-node": "^10.4.0",
+        "typescript": "^4.5.4"
+    }
+}
