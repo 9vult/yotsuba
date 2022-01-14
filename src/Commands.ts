@@ -1,5 +1,5 @@
 
-import { Command } from "./Command";
+import { Command } from "./objects/Command";
 import { About } from "./commands/About";
 import { Add } from "./commands/Add";
 

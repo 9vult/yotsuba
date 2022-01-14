@@ -1,6 +1,6 @@
 
 import { BaseCommandInteraction, Client } from "discord.js";
-import { Command } from "../Command";
+import { Command } from "../objects/Command";
 
 const VERSION = "1.0.0";
 
